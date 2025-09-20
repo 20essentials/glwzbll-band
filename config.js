@@ -1,0 +1,23 @@
+export const nameBand = 'GLWZBLL';
+export let nameSongs = [
+	"UNTITLED #13 (SUPER SLOWED)", /*1*/
+	"OFF THE GRID", /*2*/
+	"UNTITLED #13", /*3*/
+	"RED SLOPE", /*4*/
+	"PAST ADVERTISEMENT", /*5*/
+	"I KNOW BETTER", /*6*/
+	"END OF THE LINE", /*7*/
+	"UPRISE", /*8*/
+	"COME AROUND ANOTHER DAY", /*9*/
+	"WOLF DAYS ", /*10*/
+	"CORROSIVE MATERIALS", /*11*/
+	"POWERHOUSE DOORBELL", /*12*/
+	"FIX YOU", /*13*/
+	"PRAVDA (FEAT. NTTRL)", /*14*/
+	"DANCE MACABRE", /*15*/
+	"WHEN NOTHING FELT INSANE", /*16*/
+	"HEY BOY (FEAT. LIZZZ)", /*17*/
+	"THE NEW NEW", /*18*/
+	"NEW PEOPLE", /*19*/
+	"GENERIC CLUB HEIST SONG", /*20*/
+]
